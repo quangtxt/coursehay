@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+<message id="1">
+    <emailPassNull>Email and password is required</emailPassNull>
+    <emailNull>Email is required</emailNull>
+    <passNull>Password is required</passNull>
+    <phoneNull>Phone is required</phoneNull>
+    <course-nameNull>Course name is required</course-nameNull>
+    <course-titleNull>Course title is required</course-titleNull>
+    <course-descNull>Course description is required</course-descNull>
+    <course-nameTitleDescNull>Check missing input!!!</course-nameTitleDescNull>
+    <imgError>File need to be less than 5MB and required</imgError>
+</message>
+
